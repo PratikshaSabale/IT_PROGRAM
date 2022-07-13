@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://img.xcitefun.net/users/2014/07/361484,xcitefun-nature-color-9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+h3{
+    color:yellow
+}
+@media (min-width: 568px){
+    #name{
+        color: crimson;
+    }
+}
+
+.temp{
+    height: 200px;
+    background-color: brown ;
+    margin: 50px;
+}
